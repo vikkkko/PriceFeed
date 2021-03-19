@@ -1,0 +1,10 @@
+privatekey = "8d65d87a2de0fc95f860352250f73240baf413e21dac5e21e00b9e5a3dff16d5"
+listenaddr = ":8082"
+logfilepath = ""
+queueticker = 2000
+taskticker = 10000
+ethapi = "https://http-mainnet-node.huobichain.com" #以太坊rpc接口
+swapapi = "https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v2"  #uniswap info 接口
+assets = ["0x0000000000000000000000000000000000000000"]
+
+contractOracleddr = "0xe55B57b9fbC7C09199b4B4234D7E77B8A0c82613"
